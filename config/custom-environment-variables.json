@@ -1,0 +1,5 @@
+{
+  "ormUrl": "ORM_URL",
+  "authenticationServiceUrl": "AUTHENTICATION_SERVICE_URL",
+  "env": "ENV"
+}
